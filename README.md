@@ -12,10 +12,10 @@
 
   <a href="https://github.com/crobinson-dev/Paper-SOL/stargazers"><img src="https://img.shields.io/github/stars/crobinson-dev/Paper-SOL" alt="Stars Badge"/></a>
   <a href="https://github.com/crobinson-dev/Paper-SOL/network/members"><img src="https://img.shields.io/github/forks/crobinson-dev/Paper-SOL" alt="Forks Badge"/></a>
-  <a href="https://github.com/crobinson-dev/Paper-SOL/pulls"><img src="https://img.shields.io/github/issues-pr/crobinson-dev/Paper-SOL" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/crobinson-dev/Paper-SOL/issues"><img src="https://img.shields.io/github/issues/crobinson-dev/Paper-SOL" alt="Issues Badge"/></a>
-  <a href="https://github.com/crobinson-dev/Paper-SOL/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crobinson-dev/Paper-SOL?color=ff27ff"></a>
-  <a href="https://github.com/crobinson-dev/Paper-SOL/blob/master/LICENSE"><img src="https://img.shields.io/github/license/crobinson-dev/Paper-SOL?color=ff27ff" alt="License Badge"/></a>
+  <a href="https://github.com/crobinson-dev/Paper-SOL/pulls"><img src="https://img.shields.io/github/issues-pr/crobinson-dev/Paper-SOL?color=ffccff" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/crobinson-dev/Paper-SOL/issues"><img src="https://img.shields.io/github/issues/crobinson-dev/Paper-SOL?color=ffccff" alt="Issues Badge"/></a>
+  <a href="https://github.com/crobinson-dev/Paper-SOL/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crobinson-dev/Paper-SOL?color=ffccff"></a>
+  <a href="https://github.com/crobinson-dev/Paper-SOL/blob/master/LICENSE"><img src="https://img.shields.io/github/license/crobinson-dev/Paper-SOL?color=ffccff" alt="License Badge"/></a>
 
 </div>
 
