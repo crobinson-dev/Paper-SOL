@@ -12,7 +12,7 @@ from solana.rpc.types import TokenAccountOpts
 from aiogram.client.default import DefaultBotProperties
 from solders.pubkey import Pubkey
 import os
-from db import WalletDatabase
+from libs.db import WalletDatabase
 from dotenv import load_dotenv
 from seleniumbase import Driver
 import re

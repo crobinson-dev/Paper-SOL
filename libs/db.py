@@ -2,7 +2,7 @@ import sqlite3
 
 class WalletDatabase:
     def __init__(self, table) -> None:
-        self.connection = sqlite3.connect(f"./data.db")
+        self.connection = sqlite3.connect(f"../data/data.db")
         self.table = table
         self.cursor = self.connection.cursor()
 
