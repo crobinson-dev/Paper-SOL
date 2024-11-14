@@ -45,6 +45,13 @@ python main.py
 
 ## Categories
 
+#### Buy 🪙
+
+1. Following the **Buy** Markup the Bot will prompt for an SPL Token Contact Address
+2. The Bot will then search the *solana.fm* API for the SPL Token information including name and price
+3. The Bot will then ask how much SOL to put in by Solana amount or percent of current SOL Balance
+4. It will then add the purchase to the dictionary
+
 ## License
 
 [![GNU](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1)
