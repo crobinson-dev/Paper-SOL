@@ -52,6 +52,18 @@ python main.py
 3. The Bot will then ask how much SOL to put in by Solana amount or percent of current SOL Balance
 4. It will then add the purchase to the dictionary
 
+#### Sell 📈
+
+1. Following the **Sell** Markup the Bot will prompt for a 
+2. The Bot will then search the *solana.fm* API for the SPL Token information including name and price
+3. The Bot will then ask how much SOL to put in by Solana amount or percent of current SOL Balance
+4. It will then sell the token and remove it from the dictionary
+
+#### New Pairs 🌱
+
+Upon clicking the New Pairs the program will open the undetected chrome browser to scrape the new token data from *birdeye.so*.
+It will then present all the tokens to the user with the pertinent information about the token.
+
 ## License
 
 [![GNU](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1)
