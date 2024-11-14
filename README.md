@@ -19,6 +19,32 @@
 
 </div>
 
+### Categories
+  - [Introduction](#introduction)
+  - [Categories](#categories-)
+    - [Buy 🪙](#buy-)
+    - [Sell 📈](#sell-)
+    - [New Pairs 🌱](#new-pairs-)
+  - [Packages](#packages-)
+
+## Introduction
+Paper SOL is a python program that utilizes the Telegram API to use the interface to interact with users. It uses markups and database systems to ttrack the user's current balance. 
+
+#### How It Works
+1. Download the required python packages using the following command:
+```
+pip install -m requirements.txt
+```
+2. Contact @BotFather on Telegram to receive a Telegram Bot Token
+3. Copy the Bot Token and Paste into the *.env* file in your local directory
+4. Run the following command to start the program:
+```
+python main.py
+```
+5. Message your bot to get started
+
+## Categories
+
 ## License
 
 [![GNU](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1)
